@@ -12,4 +12,4 @@ jhipster:
     security:
         authentication:
             jwt:
-                secret: ${ADMIN_PASSWORD} # CajPQt6fpewGahXfSgUAeCIEeQ1IuTEWbClHGVCMd
+                secret: ${JWT_SECRET} # CajPQt6fpewGahXfSgUAeCIEeQ1IuTEWbClHGVCMd
